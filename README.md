@@ -10,5 +10,5 @@ Be sure you have installed `python 2.7`, `slimit` and `unidecode`.
 Now just run it with the input file and the output path.
  
 ```
-./garble.py "input.js" "out.js"
+./pypress.py "input.js" "out.js"
 ```
